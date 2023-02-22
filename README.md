@@ -1,9 +1,18 @@
-# About Me
-- 👋 My name is Gene H. Yee, a US Navy Veteran turned Full Stack Software Engineer 
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+  
 
-- 👀 My current programming languages are React.js - C#/.NET Core - MS SQL
+### <div align="center">Hello my name is Gene H. Yee, a US Navy Veteran turned Full Stack Software engineer 👨‍💻 🚀</div>  
+  
 
-- 🌱 I'm always ready to collaborate and take on challenging problems
+- 👀 My current programming languages are React.js - C#/.NET Core - MS SQL  
+  
+
+- 🌱 I'm always ready to collaborate and take on challenging problems  
+  
+
+<br/>  
 
 <div id="badges" align="center">
 <img src="https://komarev.com/ghpvc/?username=KuyaGene23&style=flat-square&color=blue" alt=""/>
