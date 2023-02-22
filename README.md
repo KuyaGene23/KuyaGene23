@@ -5,7 +5,9 @@
 
 - 🌱 I'm always ready to collaborate and take on challenging problems
 
+<div id="badges" align="center">
 <img src="https://komarev.com/ghpvc/?username=KuyaGene23&style=flat-square&color=blue" alt=""/>
+</div>
 
 <hr/>
 <div id="badges" align="center">
@@ -38,7 +40,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="MSSQL" alt="MSSQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>  
 </div>
-## Connect with me  
+ 
 <div align="center">
 <a href="mailto:genehyee98@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white style="margin-bottom: 5px;" />
