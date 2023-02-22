@@ -20,7 +20,7 @@
 </div>
 <p/>
 <div align = "center">
-  <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width = "auto" height = "300"/>
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width = "auto" height = "300"/>
 </div>
 
 <hr/>
