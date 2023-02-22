@@ -11,6 +11,9 @@
 
 <hr/>
 <div id="badges" align="center">
+  <a href="mailto:genehyee98@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white style="margin-bottom: 5px;" />
+</a>
   <a href="https://www.linkedin.com/in/gene-yeezy">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -41,14 +44,4 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>  
 </div>
  
-<br/> 
-
-<div align="center">
-<a href="mailto:genehyee98@gmail.com" target="_blank">
-<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/gene-yeezy" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
 <p/>
