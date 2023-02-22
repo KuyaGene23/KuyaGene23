@@ -1,7 +1,11 @@
 # About Me
 - 👋 My name is Gene H. Yee, a US Navy Veteran turn Full Stack Software engineer 
+
 - 👀 My current programming languages are React.js - C#/.NET Core - MS SQL
+
 - 🌱 I'm always ready to collaborate and take on challenging problems
+
+<img src="https://komarev.com/ghpvc/?username=KuyaGene23&style=flat-square&color=blue" alt=""/>
 
 <hr/>
 <div id="badges" align="center">
@@ -34,4 +38,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="MSSQL" alt="MSSQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>  
 </div>
+## Connect with me  
+<div align="center">
+<a href="mailto:genehyee98@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/gene-yeezy" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>  
 <p/>
