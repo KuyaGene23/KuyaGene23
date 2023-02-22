@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">Hello my name is Gene H. Yee, a US Navy Veteran turned Full Stack Software engineer 👨‍💻 🚀</div>  
   
 
