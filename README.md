@@ -1,7 +1,7 @@
 ### <div align="center">Hello my name is Gene H. Yee, a US Navy Veteran turned Full Stack Software engineer 👨‍💻 🚀</div>  
   
 
-- 👀 My current programming languages are React.js - C#/.NET Core - MS SQL  
+- 👀 I have developed RESTful API controllers that connected and processed client-side requests to the database with .NET. Incorporated  client-side and server-side validation functionality in React.js front-end and implemented third party libraries and frameworks.
   
 
 - 🌱 I'm always ready to collaborate and take on challenging problems  
