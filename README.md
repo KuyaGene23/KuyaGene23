@@ -41,6 +41,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>  
 </div>
  
+<br/> 
+
 <div align="center">
 <a href="mailto:genehyee98@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white style="margin-bottom: 5px;" />
