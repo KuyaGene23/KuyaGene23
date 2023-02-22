@@ -44,4 +44,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>  
 </div>
  
+ ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal) 
 <p/>
