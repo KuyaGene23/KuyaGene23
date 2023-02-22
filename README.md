@@ -1,5 +1,5 @@
 # About Me
-- 👋 My name is Gene H. Yee, a US Navy Veteran turn Full Stack Software engineer 
+- 👋 My name is Gene H. Yee, a US Navy Veteran turned Full Stack Software Engineer 
 
 - 👀 My current programming languages are React.js - C#/.NET Core - MS SQL
 
