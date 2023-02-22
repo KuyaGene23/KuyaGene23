@@ -11,7 +11,7 @@
 </div>
 <p/>
 <div align = "center">
-  <img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" width = "auto" height = "300"/>
+  <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width = "auto" height = "300"/>
 </div>
 
 <hr/>
