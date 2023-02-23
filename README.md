@@ -69,8 +69,6 @@
 <a href="https://trello.com/" target="_blank"><img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" alt="Trello" height="50" /></a> 
 <a href="https://slack.com/" target="_blank"><img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" alt="Yarn" height="50" /></a>
  <a href="" target="_blank"><img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" alt="Slack" height="50" /></a>
- <a href="https://learn.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms?view=sql-server-ver16" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/99918701/220838772-3610c41e-3e4c-46f5-9b23-5bc9b840c36d.png
-" alt="Ssms" height="50" /></a> 
 </div>
 
 </td></tr></table>  
