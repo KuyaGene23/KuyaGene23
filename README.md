@@ -68,8 +68,9 @@
 <a href="https://visualstudio.microsoft.com/" target="_blank"><img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="VisualStudio" height="50" /></a>  
 <a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode" height="50" /></a>  
 <a href="https://trello.com/" target="_blank"><img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" alt="Trello" height="50" /></a> 
-<a href="https://slack.com/" target="_blank"><img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" alt="Yarn" height="50" /></a>
- <a href="" target="_blank"><img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" alt="Slack" height="50" /></a>
+<a href="https://classic.yarnpkg.com/en/" target="_blank"><img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" alt="Yarn" height="50" /></a>
+ <a href="https://slack.com/" target="_blank"><img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" alt="Slack" height="50" /></a>
+<a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="Git" height="50" /></a>
 </div>
 
 </td></tr></table>  
