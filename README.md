@@ -1,4 +1,4 @@
-### <div align="center">Hello my name is Gene H. Yee, a US Navy Veteran turned Full Stack Software engineer 👨‍💻 🚀</div>  
+### <div align="center">Hello my name is Gene H. Yee, a US Navy Veteran turned Full Stack Software Engineer 👨‍💻 🚀</div>  
   
 - 👨‍💻 I’m currently contributing to front-end, back-end, and database solutions for building web applications.
 
