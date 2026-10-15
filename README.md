@@ -7,7 +7,7 @@
 
 - 🌱 I'm always ready to collaborate, take on challenging problems, and create functional projects.
 
--  I a currently getting more certifications and my Software Engineering degree. 
+-  I am currently getting more certifications and my Software Engineering degree. 
   
 
 <br/>  
