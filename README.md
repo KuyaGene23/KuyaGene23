@@ -5,7 +5,9 @@
 - 👀 I have developed RESTful API controllers that connected and processed client-side requests to the database with .NET. Incorporated  client-side and server-side validation functionality in React.js front-end and implemented third party libraries and frameworks.
   
 
-- 🌱 I'm always ready to collaborate and take on challenging problems  
+- 🌱 I'm always ready to collaborate, take on challenging problems, and create functional projects.
+
+-  I a currently getting more certifications and my Software Engineering degree. 
   
 
 <br/>  
